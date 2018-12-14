@@ -90,3 +90,10 @@ Helpful links (most of them are outdated):
 - [Another guide by Lifehacker](http://lifehacker.com/5583650/run-mac-os-x-in-virtualbox-on-windows/all)
 - [Legal question](http://www.tomshardware.co.uk/answers/id-1802838/illegal-run-osx-virtual-box.html)
 - [How to disable default mounting of shared folder](https://github.com/mitchellh/vagrant/issues/1004)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
